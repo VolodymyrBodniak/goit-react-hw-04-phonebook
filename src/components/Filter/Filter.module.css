@@ -1,0 +1,15 @@
+.filterForm {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 16px;
+}
+
+.filterForm p {
+  margin: 0 0 8px 0;
+}
+
+.filterForm input {
+  width: 80%;
+  padding: 4px;
+}
